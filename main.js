@@ -30,7 +30,7 @@ console.log("livro inserido com sucesso")
                 } 
                 break; 
                 case 2:
-                     
+                     remove -r
                 
                 break;
                 case 3:
